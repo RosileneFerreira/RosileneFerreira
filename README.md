@@ -14,8 +14,6 @@
 <h3 align="left">Métricas do GitHub:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rosileneferreira&show_icons=true&locale=en" alt="rosileneferreira" /></p>
 
-![App-Developer](https://user-images.githubusercontent.com/80293952/234158344-cc90e4da-53e6-4583-9910-e93399141d91.gif)
-
 <h3 align="left">Linguagens mais utilizadas:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rosileneferreira&show_icons=true&locale=en&layout=compact" alt="rosileneferreira" /></p>
 
